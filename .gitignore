@@ -1,0 +1,4 @@
+# En el árbol de archivos, la carpeta node_modules, dentro de backend, cambiará a gris (Git la está ignorando)
+
+node_modules/
+.env
